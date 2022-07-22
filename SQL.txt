@@ -1,0 +1,1 @@
+create table tbl_login(name varchar(20), username varchar(20),Password varchar(20));
